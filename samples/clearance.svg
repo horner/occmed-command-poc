@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900">
+  <rect width="720" height="900" fill="#f3f4f6"/>
+  <rect x="36" y="36" width="648" height="828" fill="#fff" stroke="#d1d5db"/>
+  <text x="56" y="84" fill="#111827" font-family="ui-sans-serif,system-ui" font-size="20" font-weight="700">PRINTED CLEARANCE / LAB SLIP</text>
+  <text x="56" y="110" fill="#4b5563" font-family="ui-sans-serif,system-ui" font-size="13">Point the camera here. The capture keeps the determination, not this page.</text>
+  <g font-family="ui-sans-serif,system-ui" font-size="14" fill="#111827">
+    <text x="56" y="160">Employee: on the order</text>
+    <text x="56" y="186">BP 128/76 · Pulse 72 · BMI recorded in chart</text>
+    <text x="56" y="212">Meds reviewed: loratadine PRN. Not sent to employer.</text>
+    <text x="56" y="250" font-weight="700">DOT long form (if this visit is a physical)</text>
+    <text x="56" y="274">Vision 20/20 OU · Urinalysis SG 1.018 glucose neg</text>
+    <text x="56" y="298">Examiner narrative stays on the ME certificate worksheet.</text>
+    <text x="56" y="336" font-weight="700">Drug screen (if this visit is a collection)</text>
+    <text x="56" y="360">5-panel immunoassay + alcohol. Creatinine 86. pH 6.4.</text>
+    <text x="56" y="384">Quantitation and chain of custody stay with the MRO.</text>
+    <text x="56" y="422" font-weight="700">Respirator (if this visit is a clearance)</text>
+    <text x="56" y="446">Questionnaire answers and spirometry tracing stay in the chart.</text>
+  </g>
+  <rect x="56" y="500" width="608" height="120" fill="#ecfdf5" stroke="#6ee7b7"/>
+  <text x="72" y="540" fill="#065f46" font-family="ui-sans-serif,system-ui" font-size="16" font-weight="700">What leaves the building</text>
+  <text x="72" y="568" fill="#065f46" font-family="ui-sans-serif,system-ui" font-size="14">A determination, a date, and nothing else.</text>
+  <text x="72" y="592" fill="#065f46" font-family="ui-sans-serif,system-ui" font-size="13">MRO-verified negative · DOT cert expiry · respirator cleared until.</text>
+</svg>
